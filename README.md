@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/fc099838-7c8c-4996-9f90-36727faa781b)
+
 # 🎬 AI Faceless Shorts Automation (n8n Workflow)
 
 This is a fully automated video generation workflow using **n8n**, powered by **OpenAI**, **Flux**, **RunwayML**, and **Creatomate**. It generates viral faceless short videos (e.g., "Countries as Presidents Bodybuilders") and uploads them to YouTube — end to end!
